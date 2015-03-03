@@ -14,7 +14,7 @@
 
 
 #include "netForecastDS.h"
-#include "sockConstants.h"
+#include "sockConstants-server.h"
 
 
 using namespace std;
